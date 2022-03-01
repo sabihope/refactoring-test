@@ -23,7 +23,6 @@ namespace LegacyApp
     [GeneratedCode("System.ServiceModel", "4.0.0.0")]
     public partial class UserCreditServiceClient : ClientBase<IUserCreditService>, IUserCreditService
     {
-        private IUserCreditServiceChannel _userCreditServiceChannelImplementation;
         public UserCreditServiceClient() {}
         
         public UserCreditServiceClient(string endpointConfigurationName) : 

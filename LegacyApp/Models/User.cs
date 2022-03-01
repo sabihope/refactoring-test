@@ -1,4 +1,5 @@
-﻿using System;
+﻿using LegacyApp.Models;
+using System;
 
 namespace LegacyApp
 {
